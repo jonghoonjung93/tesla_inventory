@@ -1,0 +1,12 @@
+{
+  "MODEL_X": {
+    "URL": "https://..."
+  },
+  "MODEL_S": {
+    "URL": "https://..."
+  },
+  "TELEGRAM": {
+    "TOKEN": "...",
+    "CHAT-ID": "..."
+  }
+}
